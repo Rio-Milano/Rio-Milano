@@ -2,6 +2,7 @@
 
 <h1>Here is some info about me</h1>
 
+📃Currently working for Double Eleven as a programmer. 
 
 😄 Favourite Language : C++
 ⚡ Other languages I have used : C#, C, Python, Javascript, VB, Assembly, Lua, Brainf**k
